@@ -1,0 +1,11 @@
+{
+  "run": "npm run start:mightymeld",
+  "run_prettier": true,
+  "prefab_dir": "src/prefabs",
+  "include": [
+    "src"
+  ],
+  "web_server_url": "http://localhost:3000",
+  "editor": "url:vscode://file/%FILENAME:%LINE:%COLUMN",
+  "tailwind": true
+}
